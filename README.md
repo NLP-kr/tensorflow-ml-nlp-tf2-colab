@@ -13,7 +13,11 @@
 1. https://colab.research.google.com 에 접속한다.
 
 2. 깃헙 저장소의 파일을 불러온다.
+![](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2-colab/blob/master/asset/explain_1.png)
 
 3. 'Copy to Drive'를 클릭하여 실습 파일을 자신의 드라이브로 옮긴다.
+![](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2-colab/blob/master/asset/explain_2.png)
 
 4. Change runtime type 메뉴를 클릭하여 사용할 리소스를 GPU로 선택한다.
+![](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2-colab/blob/master/asset/explain_3.png)
+![](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2-colab/blob/master/asset/explain_4.png)
